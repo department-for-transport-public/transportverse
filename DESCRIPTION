@@ -1,0 +1,25 @@
+Package: transportverse
+Type: Package
+Title: Easily Install and Load all DfT packages
+Version: 0.1.0
+Authors@R: person("Francesca", "Bryden", , "francesca.bryden@dft.gov.uk", role = c("aut", "cre"))
+Description: The 'transportverse' is a set of packages that are designed to make it easy for DfT analysts to work with tidy data for analytical projects.
+  This package is designed to make it easy to install and load multiple DfT packages in a single step. Learn more about the packages this includes from the README document.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  dftutils (>= 0.1.2),
+  dftplotr (>= 0.1.4),
+  upsanddowns (>= 0.1.0),
+  slidepackR (>= 0.1.2),
+  gglegendcolour,
+  tableformatr (>= 0.1.5)
+Remotes:
+  department-for-transport-public/dftutils,
+  department-for-transport/dftplotr,
+  department-for-transport-public/upsanddowns,
+  department-for-transport-public/slidepackr,
+  department-for-transport-public/gglegendcolour,
+  department-for-transport-public/tableformatr/
+RoxygenNote: 7.2.1
