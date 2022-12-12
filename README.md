@@ -4,6 +4,15 @@ The 'transportverse' is a set of packages that are designed to make it easy for 
 
 This package is designed to make it easy to install and load multiple DfT packages in a single step.
 
+## Installation
+
+Install the transportverse package using:
+
+```
+install.packages(remotes)
+remotes::install_github("department-for-transport-public/transportverse")
+```
+
 ## The packages of the transportverse
 
 
