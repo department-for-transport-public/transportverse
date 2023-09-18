@@ -14,12 +14,14 @@ Imports:
   upsanddowns (>= 0.1.0),
   slidepackR (>= 0.1.3),
   gglegendcolour,
-  tableformatr (>= 0.1.9)
+  tableformatr (>= 0.1.9),
+  jsonencryptor
 Remotes:
   department-for-transport-public/dftutils,
   department-for-transport/dftplotr,
   department-for-transport-public/upsanddowns,
   department-for-transport-public/slidepackr,
   department-for-transport-public/gglegendcolour,
-  department-for-transport-public/tableformatr
+  department-for-transport-public/tableformatr,
+  department-for-transport-public/jsonencryptor
 RoxygenNote: 7.2.1
