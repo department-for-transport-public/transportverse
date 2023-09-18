@@ -40,3 +40,7 @@ The [upsanddowns](https://github.com/department-for-transport-public/upsanddowns
 ### tableformatr
 
 [tableformatr](https://github.com/department-for-transport-public/tableformatr): R package add-on for openxlsx, making it easy to write table-formatted data into Excel using a template file which includes titles, table headers and footnotes. This is particularly useful when you want to create an accessible table with column headers that you don't want to hard code (due to changing footnotes or name complexity) and want to set in the template instead.
+
+### jsonencryptor
+
+[jsonencryptor](https://github.com/department-for-transport-public/jsonencryptor): is designed to encrypt JSON service account keys using the secure sodium encryption package. This makes them secure to use both locally and as part of the rsconnect Shiny hosting platform.
