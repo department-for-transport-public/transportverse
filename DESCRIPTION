@@ -18,7 +18,7 @@ Imports:
   jsonencryptor
 Remotes:
   department-for-transport-public/dftutils,
-  department-for-transport/dftplotr,
+  department-for-transport-public/dftplotr,
   department-for-transport-public/upsanddowns,
   department-for-transport-public/slidepackr,
   department-for-transport-public/gglegendcolour,
